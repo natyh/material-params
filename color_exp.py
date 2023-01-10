@@ -5,6 +5,9 @@ Color Experimental
 Contains experimental functions related to RGB processing. These functions are
 in a separate module since they are not (and may never be) ready for wider use.
 """
+# SPDX-License-Identifier: Apache-2.0
+# Copyright Naty Hoffman 2023
+
 import numpy as np
 import colour
 import color_ior

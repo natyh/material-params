@@ -1,5 +1,8 @@
 #!/bin/env python3
 
+# SPDX-License-Identifier: Apache-2.0
+# Copyright Naty Hoffman 2023
+
 import numpy as np
 import os
 from scipy.optimize import minimize

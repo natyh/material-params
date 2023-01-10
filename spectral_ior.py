@@ -5,6 +5,8 @@ Spectral IOR
 Contains functions related to spectral IOR processing such as reading common spectral IOR
 file formats and computing reflectance from complex IOR.
 """
+# SPDX-License-Identifier: Apache-2.0
+# Copyright Naty Hoffman 2023
 
 import numpy as np
 

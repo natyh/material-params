@@ -5,6 +5,9 @@ Color IOR
 Contains functions related to RGB IOR processing such as converting spectral IOR
 to RGB reflectance values. Depends on the spectral_ior module.
 """
+# SPDX-License-Identifier: Apache-2.0
+# Copyright Naty Hoffman 2023
+
 import numpy as np
 import spectral_ior
 import colour
